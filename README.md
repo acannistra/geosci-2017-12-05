@@ -1,4 +1,4 @@
-#Process Discussion: Two Geospatial Analysis Challenges
+# Process Discussion: Two Geospatial Analysis Challenges
 **[UW eScience Python for Geosciences Seminar, 2017-12-05.](https://github.com/uwescience/Python-for-geosciences/blob/master/tcannistra_20171205)**
 
 ## Abstract:
@@ -10,4 +10,17 @@ __Problem Statement:__ What effect will executive action on the extent and locat
 
 __Deliverables:__
 
-1) Map demonstrating change in accessibility 
+1. Two Maps: one demonstrating current state of access to public lands (across types? parks, forests, wilderness) across CONUS, and another demonstrating the same but with some reduction/removal plan implemented. 
+
+1. Some metric of access broken down by population demographics: are certain demographics proportionally affected by these changes? What's a meaningful metric?
+
+1. Interactive web presence allowing an individual to develop their own "executive action" scenario and observe the effects on access. 
+
+
+__Extensions:__
+
+* "Access" seems like an interesting but not totally relevant metric. Some sort of economic analysis seems interesting too, but doesn't have as much of a geospatial assimilation component. 
+
+## Vignette 2: 
+
+

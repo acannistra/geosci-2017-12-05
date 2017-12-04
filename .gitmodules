@@ -1,6 +1,0 @@
-[submodule "parkdistance"]
-	path = parkdistance
-	url = https://github.com/acannistra/parkdistance
-[submodule "mining"]
-	path = mining
-	url = https://github.com/acannistra/mining
