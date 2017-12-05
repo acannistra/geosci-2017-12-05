@@ -64,5 +64,6 @@ Issues have been that the extracted images are largely quite low-quality, unsuit
 
 ## Vignette 3: Mining Demographics [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" height=25>](https://github.com/acannistra/mining)
 
-__Problem__: How are mines spatially and demographically distributed? We fight against extractive industries in special places, but where do they go when we win? How does (more treatment in [this draft](https://blog.anthonycannistra.com/not-here-but-where-106d970f61e2)) 
+__Problem__: How are mines spatially and demographically distributed? We fight against extractive industries in special places, but where do they go when we win? (more treatment in [this draft](https://blog.anthonycannistra.com/not-here-but-where-106d970f61e2)) 
 
+Not sure we'll get to this. 
