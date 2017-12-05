@@ -55,9 +55,9 @@ We've gotten about 1000 images for lakes in Washington this way, up in S3.
 </details>
 
 <details><summary>A bunch of images</summary>
-![Puget Sound during bloom](https://www.dropbox.com/s/z8ye7p5dvjm5946/pugetlargegood.png?raw=1)
-![Lake WA clear](https://www.dropbox.com/s/f0e9fv6mvbev0xy/greatwa2.png?raw=1)
-![V small lake](https://www.dropbox.com/s/imu91ifzj1lvaeb/vsmall.png?raw=1)
+<img width="100%" src="https://www.dropbox.com/s/z8ye7p5dvjm5946/pugetlargegood.png?raw=1"></img>
+<img width="100%" src="https://www.dropbox.com/s/f0e9fv6mvbev0xy/greatwa2.png?raw=1"></img>
+<img width="100%" src="https://www.dropbox.com/s/imu91ifzj1lvaeb/vsmall.png?raw=1"></img>
 </details>
 
 Issues have been that the extracted images are largely quite low-quality, unsuitable for training a model. I paused this because there was much work to do and not quite enough time to get it done for a quarter project!
